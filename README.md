@@ -9,6 +9,8 @@
 - [Text deblurring](http://www.fit.vutbr.cz/~ihradis/CNN-Deblur/)
 
 - https://github.com/KupynOrest/DeblurGAN/issues/203
+
+- https://github.com/jacquelinelala/GFN
  
 ## Deblurring Dataset
 
