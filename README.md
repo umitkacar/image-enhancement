@@ -11,6 +11,8 @@
 - https://github.com/KupynOrest/DeblurGAN/issues/203
 
 - https://github.com/jacquelinelala/GFN
+
+- https://github.com/VITA-Group/DeblurGANv2
  
 ## Deblurring Dataset
 
