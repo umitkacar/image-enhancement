@@ -3,6 +3,8 @@
 - https://github.com/subeeshvasu/Awesome-Deblurring
 
 - https://github.com/hjSim/NTIRE2019_deblur
+
+- [Video Super-Resolution Based on Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/2007.12928.pdf)
  
 ## Deblurring Dataset
 
