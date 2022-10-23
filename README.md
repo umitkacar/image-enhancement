@@ -5,6 +5,8 @@
 - https://github.com/hjSim/NTIRE2019_deblur
 
 - [Video Super-Resolution Based on Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/2007.12928.pdf)
+
+- [Text deblurring](http://www.fit.vutbr.cz/~ihradis/CNN-Deblur/)
  
 ## Deblurring Dataset
 
