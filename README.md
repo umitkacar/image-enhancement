@@ -7,6 +7,8 @@
 - [Video Super-Resolution Based on Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/2007.12928.pdf)
 
 - [Text deblurring](http://www.fit.vutbr.cz/~ihradis/CNN-Deblur/)
+
+- https://github.com/KupynOrest/DeblurGAN/issues/203
  
 ## Deblurring Dataset
 
