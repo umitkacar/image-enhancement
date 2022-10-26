@@ -17,6 +17,8 @@
 - https://github.com/VITA-Group/DeblurGANv2
 
 - [Blind Image Super-Resolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9925720)
+
+- [SVDocNet: Spatially Variant U-Net for Blind Document Deblurring](https://openreview.net/pdf?id=Hyx3f65qLS)
  
 ## Deblurring Dataset
 
