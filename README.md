@@ -13,6 +13,8 @@
 - https://github.com/jacquelinelala/GFN
 
 - https://github.com/VITA-Group/DeblurGANv2
+
+- [Blind Image Super-Resolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9925720)
  
 ## Deblurring Dataset
 
