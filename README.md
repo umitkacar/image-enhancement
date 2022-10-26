@@ -19,6 +19,10 @@
 - [Blind Image Super-Resolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9925720)
 
 - [SVDocNet: Spatially Variant U-Net for Blind Document Deblurring](https://openreview.net/pdf?id=Hyx3f65qLS)
+
+## Survey
+
+- [Deep Image Deblurring: A Survey](https://arxiv.org/pdf/2201.10700.pdf)
  
 ## Deblurring Dataset
 
