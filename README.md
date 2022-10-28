@@ -1,5 +1,11 @@
 # image enhancement
 
+- https://github.com/google-research/maxvit
+
+- https://github.com/google-research/maxim
+
+- https://ai.googleblog.com/2022/09/a-multi-axis-approach-for-vision.html
+
 - [MIMO-UNET](https://arxiv.org/pdf/2108.05054.pdf) [[CODE]](https://github.com/chosj95/MIMO-UNet)
 
 - https://github.com/subeeshvasu/Awesome-Deblurring
