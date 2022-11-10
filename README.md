@@ -35,3 +35,7 @@
 [GoPro](https://seungjunnah.github.io/Datasets/gopro) - 3214 images (2103 training, 1111 test) [PAPER](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf)
 
 [Reds](https://seungjunnah.github.io/Datasets/reds)
+
+## Quadrilateral Detection
+- https://nhuvan.github.io/blog/005-quadrilateral/
+- [Unsupervised Non-Rigid Image Distortion Removal via Grid Deformation](https://ivlab.cse.lsu.edu/pub/iccv_21_distortion_removal.pdf) 
