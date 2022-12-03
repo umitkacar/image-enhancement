@@ -1,5 +1,7 @@
 # image enhancement
 
+- https://github.com/XPixelGroup/BasicSR (Deblur)
+
 - https://github.com/google-research/maxvit
 
 - https://github.com/google-research/maxim
