@@ -40,6 +40,8 @@
 
 - https://github.com/ljzycmd/SimDeblur
 
+- https://github.com/zsyoaoa/difface
+
 ## Quadrilateral Detection
 - https://nhuvan.github.io/blog/005-quadrilateral/
 - [Unsupervised Non-Rigid Image Distortion Removal via Grid Deformation](https://ivlab.cse.lsu.edu/pub/iccv_21_distortion_removal.pdf)
